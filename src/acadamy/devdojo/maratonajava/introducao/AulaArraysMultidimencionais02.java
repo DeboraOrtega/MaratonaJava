@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class AulaArraysMultidimencionais02 {
     public static void main(String[] args) {
         int[][] arrayInt = new int[3] [];

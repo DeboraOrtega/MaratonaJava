@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class ExercicioCurso
 {
     public static void main(String[] args) {

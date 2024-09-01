@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class Operadores {
     public static void main(String[] args) {
         boolean dezMaiorQueVinte = 10>20;

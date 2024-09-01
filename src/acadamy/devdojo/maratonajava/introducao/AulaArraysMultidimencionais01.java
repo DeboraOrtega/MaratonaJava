@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class AulaArraysMultidimencionais01 {
     public static void main(String[] args) {
         int[] [] dias = new int[3] [3];
