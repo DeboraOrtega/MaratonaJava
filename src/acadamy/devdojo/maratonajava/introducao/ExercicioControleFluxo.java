@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class ExercicioControleFluxo {
     public static void main(String[] args) {
         double salario = 5500;

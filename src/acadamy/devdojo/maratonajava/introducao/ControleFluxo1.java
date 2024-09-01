@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class ControleFluxo1 {
     public static void main(String[] args) {
         int idade = 17;

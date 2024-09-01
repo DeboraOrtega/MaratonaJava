@@ -1,3 +1,5 @@
+package acadamy.devdojo.maratonajava.introducao;
+
 public class AulaEstruturaRepeticao06 {
     public static void main(String[] args) {
         double valorTotal = 30000;
