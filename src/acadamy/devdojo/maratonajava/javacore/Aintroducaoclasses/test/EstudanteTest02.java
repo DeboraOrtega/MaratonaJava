@@ -2,8 +2,6 @@ package acadamy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
 import acadamy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
-import java.util.SortedMap;
-
 public class EstudanteTest02 {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
