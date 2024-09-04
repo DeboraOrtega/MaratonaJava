@@ -1,6 +1,6 @@
 package acadamy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio;
 
-import acadamy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
+import acadamy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Estudante;
 
 public class ImpressoraEstudante {
     public void imprime(Estudante estudante){
@@ -9,7 +9,5 @@ public class ImpressoraEstudante {
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
         System.out.println(estudante.sexo);
-
-        estudante.nome = "Davi";
     }
 }
